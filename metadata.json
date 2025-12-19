@@ -1,0 +1,7 @@
+{
+  "name": "MoodLove",
+  "description": "App",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
